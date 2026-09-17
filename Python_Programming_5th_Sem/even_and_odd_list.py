@@ -22,7 +22,7 @@ for i in range(n):
 print("Even numbers:", even) 
 print("Odd numbers:", odd)
 
-
+# Example
 '''
 Enter the number of enteries: 5
 Enter the 1st entry: 20
