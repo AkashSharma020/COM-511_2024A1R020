@@ -1,0 +1,2 @@
+PKG601 | Rahul Mehta | Priority | 3.5 kg | 150.0 km | Rs. 456.25
+PKG602 | Anjali Singh | Standard | 1.2 kg | 60.0 km | Rs. 138.00
